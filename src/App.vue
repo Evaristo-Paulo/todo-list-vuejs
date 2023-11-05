@@ -10,6 +10,7 @@ const items = ref([
     purchased: true,
     highPriority: true
   },
+  
   {
     id: 2,
     label: "Intermediate vue.js course",
